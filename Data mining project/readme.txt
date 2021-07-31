@@ -1,0 +1,1 @@
+This repo contains Data mining project - Housing price prediction
